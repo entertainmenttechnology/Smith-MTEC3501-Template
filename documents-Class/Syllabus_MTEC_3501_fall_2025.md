@@ -1,24 +1,25 @@
 ## SYLLABUS MTEC 3501: CULMINATION PROJECT DEVELOPMENT
 
-Emerging Media Technology (MTEC)\\
-Department of Entertainment Technology\\
-New York City College of Technology\\
+Emerging Media Technology (MTEC)  
+Department of Entertainment Technology  
+New York City College of Technology  
+
 **Fall 2025**
 
 ---
 
 ## COURSE INFORMATION
 
-**MTEC 3501 Culmination Project Development**\\
-Section: H10, H20\\
-When: Thursdays 2:30 - 5:00 PM\\
-Modality: Hybrid synchronous\\
-Location: Voorhees 103B and Zoom (GitHub for asynchronous activity)\\
-Professor: David B. Smith\\
-Course site: [GitHub Repository]\\
-Communication: [Discord Channel]\\
-Email: [dsmith@citytech.cuny.edu](mailto:dsmith@citytech.cuny.edu)\\
-Office hours: Tuesdays 2-4 PM Open Hours, and by appointment
+**MTEC 3501 Culmination Project Development**  
+Section: H10, H20  
+When: Thursdays 2:30 - 5:00 PM  
+Modality: Hybrid synchronous  
+Location: Voorhees 103B and Zoom (GitHub for asynchronous activity)  
+Professor: David B. Smith  
+Course site: [GitHub Repository]  
+Communication: [Discord Channel]  
+Email: [dsmith@citytech.cuny.edu](dsmith@citytech.cuny.edu)
+Office hours: Wed, Thu 12-1 PM Open Hours, and otherwise by appointment
 
 ---
 
@@ -44,7 +45,7 @@ By the end of the semester, students must **make** a **proof-of-concept prototyp
 ## LEARNING OUTCOMES
 
 This set of outcomes is designed around the six stages of any project.  These are important parts of iterative design, and we will be seeing these stages at both micro and macro levels during this class.
-| **Learning Outcome**                                                                                                                                                                                                   | **Assessment Measure**                                                                                           |
+| **Learning Outcome**                                                                                                                                                                                                   | **Assessment Measure**                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Speculate**                                                                                                                                                                                                          | Participation in collaborative speculation sessions and documentation of idea development.                       |
 | Generate speculative ideas and explore imaginative possibilities for project development, including a **Climax Version**: the wildest, most expansive vision of the project’s potential.                                | Documentation of speculation in GitHub issues, brainstorming logs, and AI reflections.                           |
