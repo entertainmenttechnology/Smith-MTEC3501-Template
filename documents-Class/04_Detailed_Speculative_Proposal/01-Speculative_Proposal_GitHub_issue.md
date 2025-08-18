@@ -6,8 +6,8 @@ Follow these steps to **fill out the Detailed Speculation Template**, **assign y
 
 ## **Step 1: Access the GitHub Repository**
 1. **Log in to GitHub** at [GitHub.com](https://github.com).
-2. Navigate to our class ****:  
-   🔗 [Smith-MTEC3501-HD13-2025S](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S)
+2. Navigate to our class repository ****:  
+
 
 ---
 
