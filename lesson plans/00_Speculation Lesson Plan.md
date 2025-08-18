@@ -24,7 +24,8 @@ By the end of this session, students will:
   - Highlight examples of speculation in technology and media:
     - Speculative design in science fiction influencing real-world technology (e.g., Star Trek’s communicator to smartphones).
     - Architects and designers imagining future cities with sustainable technology.
-  - Explain how speculation differs from traditional problem-solving: the focus is on imagining the future rather than addressing current challenges.
+  - Explain how speculation differs from traditional problem-solving: the focus is on imagining the future rather than addressing current challenges.  
+  - The focus is also on expanding the universe of potential ideas as much as possible. No idea too silly!
 
 - **Key Points:**
   - Speculation fosters creativity and innovation.
