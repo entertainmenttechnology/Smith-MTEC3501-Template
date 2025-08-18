@@ -1,6 +1,6 @@
 # MTEC 3501 Assignment: Task Issues, Proposal Feedback, and Brainstorming  
 
-## **Part 1: Build Out Your Task Issues with Milestones for the March 17 Presentation**  
+## **Part 1: Build Out Your Task Issues with Milestones for the Mid-Semester Presentation**  
 Each student must ensure that their project is structured and organized in the shared **GitHub repository** by following these steps:  
 
 ### **1. Create and Update Your Task Issues**  
