@@ -1,6 +1,6 @@
 # Student Guide: Brainstorming & GitHub Activities
 
-This guide provides step-by-step instructions for students participating in brainstorming activities using GitHub.  We will be going through these basic activities in class, but you will then be assigned to continue your brainstorm and development in teh following week.
+This guide provides step-by-step instructions for students participating in brainstorming activities using GitHub.  We will be going through these basic activities in class, but you will then be assigned to continue your brainstorm and development in the following week.
 
 GitHub has its own highly developed users manuals and documentation.  This can be found [**here**](https://docs.github.com/en/repositories)
 
@@ -10,7 +10,7 @@ GitHub has its own highly developed users manuals and documentation.  This can b
 ### **Step 1: Create a GitHub Account**
 1. Go to [GitHub](https://github.com) and sign up, if you have not already created an account.
 2. Verify your email and set up two-factor authentication (optional, but recommended).
-3. Create a User Name that is easily related to your real name:  no "fancyNaMePoTaToMe365" etc.
+3. Create a User Name that is **easily related to your _real_ name:**  no "fancyNaMePoTaToMe365" etc.
    - If you already have a username that does not comply with this, then you can change your name for this repository only:
    - [here are instructions on how to do this on the command line](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
    - You can also create a new user account, etc.
